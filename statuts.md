@@ -8,6 +8,9 @@ Cafetière & Compagnie
 ## Forme
 Association loi 1901
 
+## Domiciliation
+L'association est domiciliée 7 rue de Tal ar Groas à Lanvéoc.
+
 ## Objet
 
 ### Définition
