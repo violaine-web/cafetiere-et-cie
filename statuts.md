@@ -28,6 +28,7 @@ L'activité commerciale et les différentes actions de l'association Cafetière 
   - des activités autour de l'écriture, l'art et le numérique
   - des activités de programmation de concerts, spectacles et exposition
   - projets à impact environnemental et social positif
+  - publier une revue collaborative
 
 ## Membres
 
